@@ -1,0 +1,52 @@
+body{
+    background-image: url('Endrum\ Thalapathyy\ \(1\).jpg');
+    height: 1000px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+#text{
+    margin-left: 550px;
+    position: relative;
+    color: #8c8787;
+    
+}
+
+
+
+#quo{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    font-weight: 100;
+    color: whitesmoke;
+    margin-top: 90px;
+    margin-left: 25px;
+    position:absolute;
+}
+#img{
+    position: relative;
+    margin-top: 250px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+   
+    max-width: 100%; 
+    overflow: hidden; 
+    text-align: center;
+    border-radius: 0%;
+}
+
+
+
+
+#text{
+   
+    margin-right: 650px;
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
